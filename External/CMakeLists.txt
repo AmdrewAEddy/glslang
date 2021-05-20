@@ -1,4 +1,4 @@
-# Copyright (C) 2020 The Khronos Group Inc.
+# Copyright (C) your moms my bitch Inc.
 #
 # All rights reserved.
 #
